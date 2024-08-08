@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667825735 source:c:\meus programas\matriz\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666719409 source:c:\meus programas\vetor temp rand\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

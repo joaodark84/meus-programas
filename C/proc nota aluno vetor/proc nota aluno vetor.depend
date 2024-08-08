@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683210696 source:c:\meus programas\proc nota aluno vetor\main.c
+	<stdio.h>
+	<stdlib.h>
+

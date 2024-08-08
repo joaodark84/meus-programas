@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684114707 source:c:\meus programas\quadrado magico matriz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

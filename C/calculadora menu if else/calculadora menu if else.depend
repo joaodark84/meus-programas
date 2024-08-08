@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662930279 source:c:\meus programas\calculadora menu if else\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683683668 source:c:\meus programas\elimina espaco desnecessario string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

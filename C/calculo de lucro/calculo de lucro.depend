@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679597660 source:c:\meus programas\calculo de lucro\main.c
+	<stdio.h>
+	<stdlib.h>
+

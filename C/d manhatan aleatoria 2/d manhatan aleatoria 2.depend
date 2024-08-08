@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665341156 source:c:\meus programas\d manhatan aleatoria 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

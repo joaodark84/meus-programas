@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664209167 source:c:\meus programas\numeros primos\main.c
+	<stdio.h>
+	<stdlib.h>
+

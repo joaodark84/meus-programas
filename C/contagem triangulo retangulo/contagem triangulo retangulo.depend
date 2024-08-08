@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680201465 source:c:\meus programas\contagem triangulo retangulo\main.c
+	<stdio.h>
+	<stdlib.h>
+

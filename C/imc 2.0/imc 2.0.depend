@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662850136 source:c:\meus programas\imc 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+

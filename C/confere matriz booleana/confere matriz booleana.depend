@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683746284 source:c:\meus programas\confere matriz booleana\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

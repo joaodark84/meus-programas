@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684177511 source:c:\meus programas\matriz troca de posicao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

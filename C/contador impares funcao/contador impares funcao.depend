@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664986689 source:c:\meus programas\contador impares funcao\main.c
+	<stdio.h>
+	<stdlib.h>
+

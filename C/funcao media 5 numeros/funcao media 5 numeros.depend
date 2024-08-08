@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665248814 source:c:\meus programas\funcao media 5 numeros\main.c
+	<stdio.h>
+	<stdlib.h>
+

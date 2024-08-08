@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677683588 source:c:\meus programas\struct jogo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

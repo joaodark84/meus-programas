@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695048646 source:c:\meus programas\media ponderada\main.c
+	<stdio.h>
+	<stdlib.h>
+

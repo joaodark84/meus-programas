@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666806812 source:c:\meus programas\vetor limitado pelo usuario\main.c
+	<stdio.h>
+	<stdlib.h>
+

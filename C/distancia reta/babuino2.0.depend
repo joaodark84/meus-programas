@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1661298623 source:c:\babuino2.0\main.cpp
+	<iostream>
+	<math.h>
+
+1661303188 source:c:\meus programas\babuino2.0\main.cpp
+	<iostream>
+	<math.h>
+

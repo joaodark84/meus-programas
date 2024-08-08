@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665344544 source:c:\meus programas\funco lista 5 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665247318 source:c:\meus programas\nmr primos proc\main.c
+	<stdio.h>
+	<stdlib.h>
+

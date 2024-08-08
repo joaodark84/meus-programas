@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695056925 source:c:\meus programas\menu calculo de salarios\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662932906 source:c:\meus programas\distancia manhatan\main.c
+	<stdio.h>
+	<stdlib.h>
+

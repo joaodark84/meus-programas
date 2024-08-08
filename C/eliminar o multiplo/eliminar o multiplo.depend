@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695153395 source:c:\meus programas\eliminar o multiplo\main.c
+	<stdio.h>
+	<stdlib.h>
+

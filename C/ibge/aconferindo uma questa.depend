@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1664135569 source:c:\meus programas\aconferindo uma questa\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1664137707 source:c:\meus programas\ibge\main.c
+	<stdio.h>
+	<stdlib.h>
+
