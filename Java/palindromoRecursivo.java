@@ -4,7 +4,7 @@ public class palindromoRecursivo {
 	public static boolean ChecaPalin(String palavra, int i, int j) {
 		if (i >= j) {
 			return true;
-		}
+		}//mudei
 		if (palavra.charAt(i) != palavra.charAt(j)) {
 			return false;
 		}
